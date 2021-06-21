@@ -228,6 +228,7 @@ img{
   font-weight: var(--font-semi);
   border-radius: .5rem;
 }
+
 .button:hover{
   box-shadow: 0 10px 36px rgba(0,0,0,.15);
 }
@@ -289,16 +290,16 @@ img{
   z-index: var(--z-back);
 }
 .skills__html{
-  width: 95%;
+  width: 80%;
 }
 .skills__css{
-  width: 85%;
+  width: 75%;
 }
 .skills__js{
-  width: 65%;
+  width: 30%;
 }
 .skills__ux{
-  width: 85%;
+  width: 80%;
 }
 .skills__img{
   border-radius: .5rem;
@@ -339,6 +340,7 @@ img{
   font-size: var(--normal-font-size);
   cursor: pointer;
   margin-left: auto;
+  text-align: center;
 }
 
 /* ===== FOOTER =====*/
